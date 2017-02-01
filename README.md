@@ -1,4 +1,4 @@
 Plants
 ======
 
-Just tring to get things working
+Just trying to get things working
